@@ -12,4 +12,7 @@ achieve quantum supremacy in the simplest _binary classification_ Machine Learni
 
 ___
 
-_In this repository, you will find all the code used for the experiments presented in the project report._
+_In this repository, you will find all the code used for the experiments presented in the project report. To install the conda environment, run the following command in `\src`_
+```
+conda env create -f env.yml
+```
